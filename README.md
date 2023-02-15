@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateiDorin
-- 👀 I’m interested in ReactJS, JavaScript, HTML, CSS etc.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ReactJS.
+- 👀 I’m interested in Python, ReactJS, JavaScript, HTML, CSS etc.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me matei.dorin22@Gmail.com
 
 <!---
